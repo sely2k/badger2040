@@ -1,7 +1,7 @@
-mustelid inc
-H. Badger
-RP2040
-2MB Flash
-E ink
-296x128px
+Arsenalia
+Coke
+Tech
+Aida
+@sely2k
+sely2k@gmail.com
 /badges/badge.jpg
